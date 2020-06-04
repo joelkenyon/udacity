@@ -105,14 +105,14 @@ Week_star...</DefaultAnnotationText>
               <PeriodCount>0</PeriodCount>
               <Operand>
               </Operand>
-              <StartDate>2016-04-29</StartDate>
+              <StartDate>2016-02-06</StartDate>
               <EndDate>2016-07-21</EndDate>
             </Operands>
           </Simple>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <DefaultAnnotationText>[Invoice_date] &gt;= "2016-04-29" AND
+          <DefaultAnnotationText>[Invoice_date] &gt;= "2016-02-06" AND
 [Invoice_date] &lt;= "2016-07-21"</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
@@ -149,7 +149,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_f1e2173e55314b82a801f17e1c76e25b_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_604506be46b4488782c2cd27cc13870e_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -337,7 +337,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_0d0d2147044747698da1f41bf418f13e_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_863ee6eec6e4494ca29f2f4011c2b4d9_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -419,7 +419,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_29eb3739b09b4ba0b80b90a0aef357c4_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_0975887471b34ae7b8ce7817400e63bc_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -582,7 +582,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_bb76f31c3ddb4c2f848390ddfbc3eb77_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_0c47401e5a2f4fd4bdec4ac0bf95eeff_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -610,7 +610,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_210b34ba933f44eb8902947ee2823db0_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_6d2d207cf595497482e83f4e93a65569_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -669,7 +669,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_68be0ccb4cd84f5d8fc70d54383c59d7_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_79d249739bcb4b4490fd3ea48a7216b2_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -697,7 +697,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_da3e57463b3843958159a747c36be174_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_8f19e0411b514d788f8affcef8a69d8f_.yxdb</TempFile>
           <TempFileDataProfiling />
           <Layout>
             <ViewMode>Single</ViewMode>
@@ -849,7 +849,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_05f42c1cda6b478ca8db3bcc4625e97a_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_e697452484aa463caa9077b4773a291a_.yxdb</TempFile>
           <Layout>
             <View1>
               <Hints>
@@ -872,7 +872,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_02efabfbb6bf47f78bdf1903099d10f0_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_558537d55d8c4bcb92dcbc3ee968c00b_.yxdb</TempFile>
           <Layout>
             <View1>
               <Hints>
@@ -895,7 +895,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_c63237e7a47544deaffed6197636eeeb_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_423e461fb380403c83750cdb2b7bbfc2_.yxdb</TempFile>
           <Layout>
             <View1>
               <Hints>
@@ -918,7 +918,7 @@ Week_star...</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_26888_dfa85fcfc7944c3385000cb1950fd05c_\Engine_5896_a1ac6e87edaa48e0b26e0917b2a86d54_.yxdb</TempFile>
+          <TempFile>C:\Users\E92687\AppData\Local\Temp\Engine_20108_1199b9e6b87d4add96bbb59877a6345e_\Engine_28768_595474ea855742f8bb872f5582b5cbe1_.yxdb</TempFile>
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
